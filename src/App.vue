@@ -3,7 +3,6 @@
 </template>
 
 <script>
-import { Notify, useQuasar } from "quasar";
 import { defineComponent } from "vue";
 
 export default defineComponent({

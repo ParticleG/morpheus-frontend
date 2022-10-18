@@ -1,7 +1,7 @@
 import { boot } from "quasar/wrappers";
 
 export default boot(({ app }) => {
-  app.config.globalProperties.$project = "sd-frontend";
+  app.config.globalProperties.$project = "morpheus";
   app.config.globalProperties.$sleep = (ms) => {
     return new Promise((resolve) => {
       setTimeout(resolve, ms);

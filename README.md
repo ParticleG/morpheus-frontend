@@ -1,6 +1,6 @@
-# SD Frontend (sd-frontend)
+# Morpheus (morpheus-frontend)
 
-A Quasar frontend for Stable Diffusion
+A Quasar frontend for [Morpheus Backend](https://github.com/ParticleG/morpheus-backend)
 
 ## Install the dependencies
 ```bash

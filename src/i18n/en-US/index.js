@@ -13,12 +13,12 @@ export default {
     headers: {
       main: {
         labels: {
-          title: "SD Frontend",
+          title: "Morpheus",
         }
       },
       search: {
         labels: {
-          title: "SD Frontend",
+          title: "Morpheus",
           search: "Search"
         }
       }
@@ -26,7 +26,7 @@ export default {
     footers: {
       main: {
         labels: {
-          title: "SD Frontend"
+          title: "Morpheus"
         }
       }
     },
@@ -35,7 +35,7 @@ export default {
   pages: {
     homepage: {
       labels: {
-        title: "SD Frontend",
+        title: "Morpheus",
         search: "Search"
       }
     },

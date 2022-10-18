@@ -160,8 +160,8 @@ module.exports = configure(function(ctx) {
 
 
       manifest: {
-        name: `SD Frontend`,
-        short_name: `SD Frontend`,
+        name: `Morpheus`,
+        short_name: `Morpheus`,
         description: `A Quasar frontend for Stable Diffusion`,
         display: "standalone",
         orientation: "portrait",
@@ -227,7 +227,7 @@ module.exports = configure(function(ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: "sd-frontend"
+        appId: "morpheus-frontend"
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain

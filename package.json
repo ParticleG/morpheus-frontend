@@ -1,8 +1,8 @@
 {
-  "name": "sd-frontend",
+  "name": "morpheus-frontend",
   "version": "0.0.1",
-  "description": "A Quasar frontend for Stable Diffusion",
-  "productName": "SD Frontend",
+  "description": "A Quasar frontend for Morpheus",
+  "productName": "Morpheus",
   "author": "ParticleG <particle_g@outlook.com>",
   "private": true,
   "scripts": {
